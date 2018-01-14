@@ -3,9 +3,8 @@ package numbers
 import (
 	"encoding/json"
 	"io/ioutil"
+	"log"
 	"net/http"
-
-	"github.com/labstack/gommon/log"
 )
 
 const (

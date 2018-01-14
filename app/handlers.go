@@ -1,10 +1,9 @@
 package app
 
 import (
+	"encoding/json"
 	"log"
 	"net/http"
-
-	"encoding/json"
 
 	"github.com/pcherednichenko/numbers/app/numbers"
 )
